@@ -1,4 +1,4 @@
-# grafico_radar
+# grafico_radar_IA
 
 Comparação visual entre inteligência humana e capacidades de IA, com planejamento de desenvolvimento para os eixos em que a IA apresenta defasagem estrutural.
 
